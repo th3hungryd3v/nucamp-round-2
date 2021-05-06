@@ -3,6 +3,9 @@ Getting my second dose of NuCamp's Full Curriculum. From the Fundamentals all th
 
 ## Setup for the Web Dev Fundamentals (HTML, CSS, & JavaScript) (Windows 10)
 
+### VS Code Extensions
+- 
+
 ### Git
 - `git config --global user.name "{your_username}"
 `
