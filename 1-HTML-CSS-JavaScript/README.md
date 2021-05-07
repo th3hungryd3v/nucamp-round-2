@@ -8,3 +8,6 @@
  - Introduction to JavaScript
 ### Week 4
  - More JavaScript and the HTML DOM
+
+Todos
+ []
