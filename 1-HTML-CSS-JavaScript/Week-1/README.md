@@ -1,7 +1,7 @@
 # Week-1: Course Setup & Introduction
 
 
-### Resources
+## Resources
 
 [HackerNoon](https://hackernoon.com/should-you-be-a-back-end-front-end-or-full-stack-developer-cf3a39aa95de)
 
@@ -26,5 +26,15 @@
 []()
 []()
 
-### Notes
-This week is very light. It's meant to get your Development Environment (VS Code + Extensions) set up and play with some HTML & CSS.
+#### Notes:
+This week is very light. It's meant to get your Development Environment (VS Code + Extensions) set up, as well as, play with some HTML & CSS.
+
+##### Personal Reflections
+
+- Always remember that there will always be someone who's bigger, faster, stronger, and smarter than you (and vice-versa). But don't let that discourage you. Time is limited.
+
+- Always strive to be better than you were yesterday, even if all you did was chill yesterday.
+
+- Always type shit out and see what happens, regardless if it's wrong/right or neither.
+
+-
