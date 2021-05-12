@@ -52,6 +52,28 @@ while (i > 10) {
 
 a. Since text is never defined, the code won't run.
 
+- Challenge Questions: More Attributes
+
+1.  ``` <a href="#" target="_blank"> ```
+
+2. Define a primary language with the lang attribute, and then call out the secondary language(s) with *lang* attributes on elements in the document
+
+    .b Define lang in the specific sections of the document as needed:
+```html
+<div lang="fr-CA" xml:lang="fr-CA">
+Canadian French content...
+</div>
+<div lang="en-CA" xml:lang="en-CA">
+Canadian English content...
+</div>
+<div lang="nl-NL" xml:lang="nl-NL">
+Netherlands, Dutch content...
+</div>
+```
+
+3. The meta description is an HTML tag you can set for a post or page of your website. In it, you can describe what your page is about. If you’re lucky, Google will show it beneath your page’s title in the search results. It brings you an opportunity to convince search engine users that your page will offer what users are looking for.
+
+
 ### Week 2
  - More HTML and Introduction to CSS
 ### Week 3
