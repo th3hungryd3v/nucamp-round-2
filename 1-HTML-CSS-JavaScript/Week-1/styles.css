@@ -1,5 +1,14 @@
 :root {
     background-color: rgba(16, 63, 134, 0.795);
     color: rgba(255, 255, 255, 0.678);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* body {
+
+} */
+
+img {
+    border-radius: 50%;
 }
 
