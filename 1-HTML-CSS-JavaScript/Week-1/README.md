@@ -34,6 +34,6 @@ This week is very light. It's meant to get your Development Environment (VS Code
 
 - Always strive to be better than you were yesterday.
 
-- Always type shit out and see what happens, regardless if it's wrong/right or neither.
+- Always type examples or tutorials out for yourself and see what happens, regardless if it's wrong/right or neither.
 
--
+- Networking isn't just for routers and switches, get out there and meet with people in your community.
