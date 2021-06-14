@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1>Survey</h1>
+    <form action="https://us-central-nucamp-production-cloudfunctions.net/post/formdata" method="POST">
+        <fieldset>
+            <legend>Your Information</legend>
+            <div>
+                First Name: <input type="text" name="firstName" placeholder="Your First Name" />
+            </div>
+            <div>
+                Last Name: <input type="text" name="lastName" placeholder="Your Last Name" />
+            </div>
+            <div>
+                Your Email: <input type="email" name="email" placeholder="Your Email Address" />
+            </div>
+        </fieldset>
+        <legend>Survey Questions</legend>
+    </form>
+</body>
+</html>
