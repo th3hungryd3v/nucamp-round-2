@@ -6,7 +6,8 @@ Getting my second dose of NuCamp's Full Stack Curriculum. From the Fundamentals 
 ## Setup for the Web Dev Fundamentals (HTML, CSS, & JavaScript) (Windows 10)
 
 # VS Code Extensions
-- Live Server
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 # Git
 - `git config --global user.name "{your_username}"`
