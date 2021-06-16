@@ -5,10 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Survey Form</title>
+    <!-- Internal Stylesheet -->
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        .survey-form {
+            width: 80%;
+            margin: auto;
+        }
+
+        #submit-btn {
+            background: green;
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <h1>Survey</h1>
-    <form action="https://us-central-nucamp-production-cloudfunctions.net/post/formdata" method="POST">
+    <form class="survey-form" action="https://us-central-nucamp-production-cloudfunctions.net/post/formdata" method="POST">
         <fieldset>
             <legend>Your Information</legend>
             <div>
@@ -46,7 +62,7 @@
                 <label for="iguana">Iguana</label>
             </div>
         </fieldset>
-        <input type="submit" />
+        <input type="submit" id="submit-btn" />
     </form>
 </body>
 </html>
