@@ -3,3 +3,8 @@ body {
     font-family: Tahoma, Arial, sans-serif;
 }
 
+h1 {
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+}
+
