@@ -8,3 +8,18 @@ h1 {
     font: 32px Garamond, Helvetica, serif;
 }
 
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
