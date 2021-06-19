@@ -20,7 +20,9 @@ Getting my second dose of NuCamp's Full Stack Curriculum. From the Fundamentals 
 - `ssh -T git@github.com` to test out your ssh key.
 
 #### Node Version 14.9.0 WIN10, M1 Macs 15.10.0 or later
-Note: Remember to add your ssh key to the ssh-agent when you first start working on a repo, so that you don't need to keep punching your password in EVERYTIME you make a commit/push.
+Notes: Remember to add your ssh key to the ssh-agent when you first load up VSCode, so that you don't need to keep punching your password in EVERYTIME you make a commit/push.
+
+##### TODO: [] Write a script that runs the ssh-agent upon starting VSCode.
 
 ### Resources:
 
