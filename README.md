@@ -51,7 +51,7 @@ fi
 
 unset env
 ```
-When you first run VSCode it'll ask for your password, after you enter it, VSCode will now automatically add your SSH-Key to the SSH-Agent and you won't have to enter your password whenever you make pushes to your repo.
+When you first run VSCode it'll ask for your password, after you enter it, VSCode will now automatically add your SSH-Key to the SSH-Agent and you won't have to enter your password whenever you make pushes to your repo. Also, when rebooting, it resets, so kill the terminal before starting to code to allow the script to re-run properly.
 ### Resources:
 
 #### Images
