@@ -27,6 +27,10 @@ label {
     display: block;
 }
 
+form {
+    text-align: center;
+}
+
 #submit-btn {
-    display: block;
+    display: inline-block;
 }
