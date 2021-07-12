@@ -1,4 +1,5 @@
 :root {
+    background: linear-gradient(#16323e, rgb(78, 77, 77), #9191e5);
     background-color: rgba(16, 63, 134, 0.795);
     color: rgba(255, 255, 255, 0.678);
     font-family: 'Roboto Condensed', sans-serif;
@@ -18,8 +19,10 @@ audio {
 
 h1 {
     /* margin: auto; */
-    font-size: 3em;
-    color: rgb(51, 133, 255);
+    font-size: 6em;
+    max-width: 100%;
+    max-height: 100%;
+    color: rgb(51, 228, 255);
 }
 h2 {
     font-size: 1.8em;
